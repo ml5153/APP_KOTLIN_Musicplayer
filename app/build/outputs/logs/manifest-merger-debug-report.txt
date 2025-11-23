@@ -1,0 +1,496 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [:Block-Feature:Feature-List] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Feature/Feature-List/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:Block-Feature:Feature-Player] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Feature/Feature-Player/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/yspark/.gradle/caches/8.13/transforms/f4109c34d2b557e55270677ba58f07cb/transformed/viewbinding-8.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [:Block-Core:Core-Media] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Core/Core-Media/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:Block-Common:Common-Bom] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Common/Common-Bom/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:Block-Common:Common-Log] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Common/Common-Log/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.13.0] /Users/yspark/.gradle/caches/8.13/transforms/b87b242450d9a3e64ee9dd50a7940f51/transformed/material-1.13.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/yspark/.gradle/caches/8.13/transforms/6ab5902a07f00c2b6bc9396357847ce5/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/7134723ff77accecbe306cd7cb50bea7/transformed/coil-compose-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/0dcb0e254e3eea08aaa1055b5d3a7491/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/a8c76c951a2016650e90c6e3d2dc8d57/transformed/coil-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/bf71cf066a5e7c3cfbfdacf48f46b05f/transformed/coil-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/yspark/.gradle/caches/8.13/transforms/928300589018fdeca139b471fdb073b2/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/yspark/.gradle/caches/8.13/transforms/97fbb500a9f1dd2225bd598fd5563498/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/dfb9022259b62c631d655545c4e57ab0/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/yspark/.gradle/caches/8.13/transforms/7269a37e777825de9a15a3d2af87cd9e/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/7700bbc0ac3d065467ae427488574bbf/transformed/navigation-common-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/6bfdd4ced759c856529fccc6c24e6581/transformed/navigation-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/ad7be4fbbdd0807a4f215dc09483253a/transformed/navigation-runtime-ktx-2.9.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/3a197ff47ebc04979a891689cfea1b59/transformed/navigation-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/yspark/.gradle/caches/8.13/transforms/6e0797954a0359ab4786e078d7c724b9/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.media3:media3-exoplayer-dash:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/a2077fd4de62daa35e87812682f3e62d/transformed/media3-exoplayer-dash-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/07ef1805a2930e7e33fe5053c66cc3c6/transformed/media3-exoplayer-1.8.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-ui:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/0607dfd50545d1e08b9c381a942f3e74/transformed/media3-ui-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-session:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/83c42247297738d50e8c66dcdc703893/transformed/media3-session-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-extractor:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/804b1c6f26fb3ca51bc2e2c64ba53f6e/transformed/media3-extractor-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/ae9e12790933fe8ca0c1f7af53f6a529/transformed/media3-container-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/8caa5d3693196ae3eda4b6e54e97efd4/transformed/media3-datasource-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/f926d0dc28f143895937d4a7cf5a3d7f/transformed/media3-decoder-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/a47dc58c999863132bc08e0ca9496c26/transformed/media3-database-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common-ktx:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/57059bd59d72188f298e5e82abc0fc33/transformed/media3-common-ktx-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/00c0b060894d6fcaefe8766490afd183/transformed/media3-common-1.8.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-ui-compose:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/7789e984528b1a3cda0ed1d5b915e554/transformed/media3-ui-compose-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/4cf53be16adc7574325565a52ccb553a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/yspark/.gradle/caches/8.13/transforms/833439d3695dd6216f3b5913711f109e/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/54fedee19984e03802d2d4f158e183d0/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/010ddd2b60d0e372e44602e327220802/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/f072e5fb750eff2797cc6d517deca2b7/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/c6d9dcac35614e2917c7e886562e403b/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/5f4f372f191465f8dec50173985438db/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/72448ddafba561ee824df9e66e8622d0/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/5d40f868c368101f4df27b3de4bb1d01/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/c8ec00ba3f38c7d1bda4960437417541/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/480e0eb140c8d60daea1b743516ea59b/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/4de40afd991cc1e9c167c0ed1821796c/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/b3594d7439c8c84aef69fc8bef449508/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/cd80e5fd5b9adeec423870c4dffbb22c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/yspark/.gradle/caches/8.13/transforms/ff5819b5843c928baa044261340efd15/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/51f6b7164a5a0fc4dea11f02ddf482a2/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/5d1b2f9c33860c289789bf343ce48d81/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/2e68c9ac5888cc0e7bc32ee4d1740c6b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/5033e2de85a5958f2f5d855c6d6ffcb5/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/9e54b293e50a5f162cfbe1712394398d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9d165d776e0514d4d285fb5a714d18fb/transformed/recyclerview-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/49c098ee251c194d0161b3e9ccbb129b/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.7.0] /Users/yspark/.gradle/caches/8.13/transforms/862912219ffe9c54f47e5dfa3e7985b0/transformed/media-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/c42f4804015acd87a9233c94a3ec4e94/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/yspark/.gradle/caches/8.13/transforms/442028f3e1fde568a18a02ae9ef8a10f/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/c4dc67969684389ef17d916edb8ca3e9/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/54363591216929814a469c08fcf48a11/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/727760acbf6973972f7662dcfaa081ea/transformed/lifecycle-livedata-core-ktx-2.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0899470a4632221d50b52cdfa0f9d224/transformed/lifecycle-viewmodel-ktx-2.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/36249d3ef54c8ef2d8a0204a0291b372/transformed/lifecycle-livedata-core-2.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/cf581c81680419899127f5dd167ff83b/transformed/lifecycle-livedata-2.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/03b5047800320a3735b46bce531e9528/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/1add3e6ebecc8342435059cd5a0d86fe/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/5a781275e925e7ccdf1328e312e6c48a/transformed/lifecycle-viewmodel-2.9.0/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/37c9ca1ea6326abbdba9ceeac7d3461b/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/d0c6b1d5a2b6e7eb9796c5bc9995eead/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/49c23f6d9b2df8d8a3c63742cd1e6aad/transformed/savedstate-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e67bde20ce5be36a066dcf26ea81eb2/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/6d36c20a3c7167e3825a72a3f1b5ae07/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/b8daf7331eba9e56757a519f31a58ce6/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/10fa603a1b3d7c2df3551e3295e59416/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/df2f2795a7daed38f2036dfa553e4149/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/e55805de621cd18cfe4d696047285406/transformed/activity-ktx-1.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/21305f0425acbbaa1abcb75ec1f75ff3/transformed/activity-compose-1.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/694727355f84618a275edc96df8331d7/transformed/activity-1.11.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/yspark/.gradle/caches/8.13/transforms/3caabf453e29d033d4fa89eb5ee63f4b/transformed/graphics-shapes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/00609c4b150670d944592dd73ff5a9c9/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/ef817f7ac38509fa798979d234a9e79f/transformed/core-ktx-1.17.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/db359a34fc8f56e9812a2e96dddef3ca/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/e1c60e1487c23eed811b548b8d891d7b/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/a03d9584c2a1714c88ab509d999cd943/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/yspark/.gradle/caches/8.13/transforms/314f046ee1ad08e2f2e1c739449d4049/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/09aa6e6bb50e5fa2be088d4a6ef10f59/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/6c26e131c92a2f3c1aa80f361f9fc030/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/f5b63fa6d3bb6c5701595f586c6cfbae/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/db836122f2c1b1015044b4fb1eeb3444/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/yspark/.gradle/caches/8.13/transforms/0f862450057ecacbe6c188bd3a3d98d6/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/2bac4af786a2a60f873afef904b931d3/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/yspark/.gradle/caches/8.13/transforms/d5127c7f8533e63543ed89a6598605b9/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yspark/.gradle/caches/8.13/transforms/9435a02c6792d02a79b1e3dc4a163e6c/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:5:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:7:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:8:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:9:5-92
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:9:22-89
+application
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:12:5-37:19
+INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:12:5-37:19
+MERGED from [com.google.android.material:material:1.13.0] /Users/yspark/.gradle/caches/8.13/transforms/b87b242450d9a3e64ee9dd50a7940f51/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.13.0] /Users/yspark/.gradle/caches/8.13/transforms/b87b242450d9a3e64ee9dd50a7940f51/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/yspark/.gradle/caches/8.13/transforms/6ab5902a07f00c2b6bc9396357847ce5/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/yspark/.gradle/caches/8.13/transforms/6ab5902a07f00c2b6bc9396357847ce5/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/09aa6e6bb50e5fa2be088d4a6ef10f59/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/09aa6e6bb50e5fa2be088d4a6ef10f59/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/db836122f2c1b1015044b4fb1eeb3444/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/db836122f2c1b1015044b4fb1eeb3444/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:18:9-41
+	android:fullBackupContent
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:16:9-54
+	android:roundIcon
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:21:9-56
+	android:dataExtractionRules
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:15:9-65
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:13:9-28
+service#com.parkys.musicplayer.block.core.media.service.MusicMediaService
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:23:9-26:61
+	android:exported
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:25:13-37
+	android:foregroundServiceType
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:26:13-58
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:24:13-93
+activity#com.parkys.musicplayer.MainActivity
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:exported
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml
+MERGED from [:Block-Feature:Feature-List] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Feature/Feature-List/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Feature:Feature-List] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Feature/Feature-List/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Feature:Feature-Player] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Feature/Feature-Player/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Feature:Feature-Player] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Feature/Feature-Player/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/yspark/.gradle/caches/8.13/transforms/f4109c34d2b557e55270677ba58f07cb/transformed/viewbinding-8.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/yspark/.gradle/caches/8.13/transforms/f4109c34d2b557e55270677ba58f07cb/transformed/viewbinding-8.13.1/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Core:Core-Media] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Core/Core-Media/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Core:Core-Media] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Core/Core-Media/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Common:Common-Bom] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Common/Common-Bom/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Common:Common-Bom] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Common/Common-Bom/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Common:Common-Log] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Common/Common-Log/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Block-Common:Common-Log] /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/Block-Common/Common-Log/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.13.0] /Users/yspark/.gradle/caches/8.13/transforms/b87b242450d9a3e64ee9dd50a7940f51/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.13.0] /Users/yspark/.gradle/caches/8.13/transforms/b87b242450d9a3e64ee9dd50a7940f51/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/yspark/.gradle/caches/8.13/transforms/6ab5902a07f00c2b6bc9396357847ce5/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/yspark/.gradle/caches/8.13/transforms/6ab5902a07f00c2b6bc9396357847ce5/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/7134723ff77accecbe306cd7cb50bea7/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/7134723ff77accecbe306cd7cb50bea7/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/0dcb0e254e3eea08aaa1055b5d3a7491/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/0dcb0e254e3eea08aaa1055b5d3a7491/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/a8c76c951a2016650e90c6e3d2dc8d57/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/a8c76c951a2016650e90c6e3d2dc8d57/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/bf71cf066a5e7c3cfbfdacf48f46b05f/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/yspark/.gradle/caches/8.13/transforms/bf71cf066a5e7c3cfbfdacf48f46b05f/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/yspark/.gradle/caches/8.13/transforms/928300589018fdeca139b471fdb073b2/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/yspark/.gradle/caches/8.13/transforms/928300589018fdeca139b471fdb073b2/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/yspark/.gradle/caches/8.13/transforms/97fbb500a9f1dd2225bd598fd5563498/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/yspark/.gradle/caches/8.13/transforms/97fbb500a9f1dd2225bd598fd5563498/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/dfb9022259b62c631d655545c4e57ab0/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/dfb9022259b62c631d655545c4e57ab0/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/yspark/.gradle/caches/8.13/transforms/7269a37e777825de9a15a3d2af87cd9e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/yspark/.gradle/caches/8.13/transforms/7269a37e777825de9a15a3d2af87cd9e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/7700bbc0ac3d065467ae427488574bbf/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/7700bbc0ac3d065467ae427488574bbf/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/6bfdd4ced759c856529fccc6c24e6581/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/6bfdd4ced759c856529fccc6c24e6581/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/ad7be4fbbdd0807a4f215dc09483253a/transformed/navigation-runtime-ktx-2.9.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/ad7be4fbbdd0807a4f215dc09483253a/transformed/navigation-runtime-ktx-2.9.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/3a197ff47ebc04979a891689cfea1b59/transformed/navigation-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.6] /Users/yspark/.gradle/caches/8.13/transforms/3a197ff47ebc04979a891689cfea1b59/transformed/navigation-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/yspark/.gradle/caches/8.13/transforms/6e0797954a0359ab4786e078d7c724b9/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/yspark/.gradle/caches/8.13/transforms/6e0797954a0359ab4786e078d7c724b9/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.media3:media3-exoplayer-dash:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/a2077fd4de62daa35e87812682f3e62d/transformed/media3-exoplayer-dash-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-dash:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/a2077fd4de62daa35e87812682f3e62d/transformed/media3-exoplayer-dash-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/07ef1805a2930e7e33fe5053c66cc3c6/transformed/media3-exoplayer-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/07ef1805a2930e7e33fe5053c66cc3c6/transformed/media3-exoplayer-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/0607dfd50545d1e08b9c381a942f3e74/transformed/media3-ui-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/0607dfd50545d1e08b9c381a942f3e74/transformed/media3-ui-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-session:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/83c42247297738d50e8c66dcdc703893/transformed/media3-session-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-session:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/83c42247297738d50e8c66dcdc703893/transformed/media3-session-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/804b1c6f26fb3ca51bc2e2c64ba53f6e/transformed/media3-extractor-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/804b1c6f26fb3ca51bc2e2c64ba53f6e/transformed/media3-extractor-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/ae9e12790933fe8ca0c1f7af53f6a529/transformed/media3-container-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/ae9e12790933fe8ca0c1f7af53f6a529/transformed/media3-container-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/8caa5d3693196ae3eda4b6e54e97efd4/transformed/media3-datasource-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/8caa5d3693196ae3eda4b6e54e97efd4/transformed/media3-datasource-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/f926d0dc28f143895937d4a7cf5a3d7f/transformed/media3-decoder-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/f926d0dc28f143895937d4a7cf5a3d7f/transformed/media3-decoder-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/a47dc58c999863132bc08e0ca9496c26/transformed/media3-database-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/a47dc58c999863132bc08e0ca9496c26/transformed/media3-database-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common-ktx:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/57059bd59d72188f298e5e82abc0fc33/transformed/media3-common-ktx-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common-ktx:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/57059bd59d72188f298e5e82abc0fc33/transformed/media3-common-ktx-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/00c0b060894d6fcaefe8766490afd183/transformed/media3-common-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/00c0b060894d6fcaefe8766490afd183/transformed/media3-common-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui-compose:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/7789e984528b1a3cda0ed1d5b915e554/transformed/media3-ui-compose-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui-compose:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/7789e984528b1a3cda0ed1d5b915e554/transformed/media3-ui-compose-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/4cf53be16adc7574325565a52ccb553a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/4cf53be16adc7574325565a52ccb553a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/yspark/.gradle/caches/8.13/transforms/833439d3695dd6216f3b5913711f109e/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/yspark/.gradle/caches/8.13/transforms/833439d3695dd6216f3b5913711f109e/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/54fedee19984e03802d2d4f158e183d0/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/54fedee19984e03802d2d4f158e183d0/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/010ddd2b60d0e372e44602e327220802/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/010ddd2b60d0e372e44602e327220802/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/f072e5fb750eff2797cc6d517deca2b7/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/f072e5fb750eff2797cc6d517deca2b7/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/c6d9dcac35614e2917c7e886562e403b/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/c6d9dcac35614e2917c7e886562e403b/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/5f4f372f191465f8dec50173985438db/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/5f4f372f191465f8dec50173985438db/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/72448ddafba561ee824df9e66e8622d0/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/72448ddafba561ee824df9e66e8622d0/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/5d40f868c368101f4df27b3de4bb1d01/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/5d40f868c368101f4df27b3de4bb1d01/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/c8ec00ba3f38c7d1bda4960437417541/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/c8ec00ba3f38c7d1bda4960437417541/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/480e0eb140c8d60daea1b743516ea59b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/480e0eb140c8d60daea1b743516ea59b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/4de40afd991cc1e9c167c0ed1821796c/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/4de40afd991cc1e9c167c0ed1821796c/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/b3594d7439c8c84aef69fc8bef449508/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/b3594d7439c8c84aef69fc8bef449508/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/cd80e5fd5b9adeec423870c4dffbb22c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/cd80e5fd5b9adeec423870c4dffbb22c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/yspark/.gradle/caches/8.13/transforms/ff5819b5843c928baa044261340efd15/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/yspark/.gradle/caches/8.13/transforms/ff5819b5843c928baa044261340efd15/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/51f6b7164a5a0fc4dea11f02ddf482a2/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/51f6b7164a5a0fc4dea11f02ddf482a2/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/5d1b2f9c33860c289789bf343ce48d81/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/5d1b2f9c33860c289789bf343ce48d81/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/2e68c9ac5888cc0e7bc32ee4d1740c6b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/2e68c9ac5888cc0e7bc32ee4d1740c6b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/5033e2de85a5958f2f5d855c6d6ffcb5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/5033e2de85a5958f2f5d855c6d6ffcb5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/9e54b293e50a5f162cfbe1712394398d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/9e54b293e50a5f162cfbe1712394398d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9d165d776e0514d4d285fb5a714d18fb/transformed/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9d165d776e0514d4d285fb5a714d18fb/transformed/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/49c098ee251c194d0161b3e9ccbb129b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/yspark/.gradle/caches/8.13/transforms/49c098ee251c194d0161b3e9ccbb129b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.7.0] /Users/yspark/.gradle/caches/8.13/transforms/862912219ffe9c54f47e5dfa3e7985b0/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] /Users/yspark/.gradle/caches/8.13/transforms/862912219ffe9c54f47e5dfa3e7985b0/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/c42f4804015acd87a9233c94a3ec4e94/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/c42f4804015acd87a9233c94a3ec4e94/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/yspark/.gradle/caches/8.13/transforms/442028f3e1fde568a18a02ae9ef8a10f/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/yspark/.gradle/caches/8.13/transforms/442028f3e1fde568a18a02ae9ef8a10f/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/c4dc67969684389ef17d916edb8ca3e9/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/c4dc67969684389ef17d916edb8ca3e9/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/54363591216929814a469c08fcf48a11/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/54363591216929814a469c08fcf48a11/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/727760acbf6973972f7662dcfaa081ea/transformed/lifecycle-livedata-core-ktx-2.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/727760acbf6973972f7662dcfaa081ea/transformed/lifecycle-livedata-core-ktx-2.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0899470a4632221d50b52cdfa0f9d224/transformed/lifecycle-viewmodel-ktx-2.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0899470a4632221d50b52cdfa0f9d224/transformed/lifecycle-viewmodel-ktx-2.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/36249d3ef54c8ef2d8a0204a0291b372/transformed/lifecycle-livedata-core-2.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/36249d3ef54c8ef2d8a0204a0291b372/transformed/lifecycle-livedata-core-2.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/cf581c81680419899127f5dd167ff83b/transformed/lifecycle-livedata-2.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/cf581c81680419899127f5dd167ff83b/transformed/lifecycle-livedata-2.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/03b5047800320a3735b46bce531e9528/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/03b5047800320a3735b46bce531e9528/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/1add3e6ebecc8342435059cd5a0d86fe/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/1add3e6ebecc8342435059cd5a0d86fe/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/5a781275e925e7ccdf1328e312e6c48a/transformed/lifecycle-viewmodel-2.9.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/5a781275e925e7ccdf1328e312e6c48a/transformed/lifecycle-viewmodel-2.9.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/37c9ca1ea6326abbdba9ceeac7d3461b/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/37c9ca1ea6326abbdba9ceeac7d3461b/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/d0c6b1d5a2b6e7eb9796c5bc9995eead/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/d0c6b1d5a2b6e7eb9796c5bc9995eead/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/49c23f6d9b2df8d8a3c63742cd1e6aad/transformed/savedstate-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/49c23f6d9b2df8d8a3c63742cd1e6aad/transformed/savedstate-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e67bde20ce5be36a066dcf26ea81eb2/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e67bde20ce5be36a066dcf26ea81eb2/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/6d36c20a3c7167e3825a72a3f1b5ae07/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/6d36c20a3c7167e3825a72a3f1b5ae07/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/b8daf7331eba9e56757a519f31a58ce6/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/b8daf7331eba9e56757a519f31a58ce6/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/10fa603a1b3d7c2df3551e3295e59416/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/yspark/.gradle/caches/8.13/transforms/10fa603a1b3d7c2df3551e3295e59416/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/df2f2795a7daed38f2036dfa553e4149/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/df2f2795a7daed38f2036dfa553e4149/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/e55805de621cd18cfe4d696047285406/transformed/activity-ktx-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/e55805de621cd18cfe4d696047285406/transformed/activity-ktx-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/21305f0425acbbaa1abcb75ec1f75ff3/transformed/activity-compose-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/21305f0425acbbaa1abcb75ec1f75ff3/transformed/activity-compose-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/694727355f84618a275edc96df8331d7/transformed/activity-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.11.0] /Users/yspark/.gradle/caches/8.13/transforms/694727355f84618a275edc96df8331d7/transformed/activity-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/yspark/.gradle/caches/8.13/transforms/3caabf453e29d033d4fa89eb5ee63f4b/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/yspark/.gradle/caches/8.13/transforms/3caabf453e29d033d4fa89eb5ee63f4b/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/00609c4b150670d944592dd73ff5a9c9/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/00609c4b150670d944592dd73ff5a9c9/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/ef817f7ac38509fa798979d234a9e79f/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/ef817f7ac38509fa798979d234a9e79f/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/db359a34fc8f56e9812a2e96dddef3ca/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/db359a34fc8f56e9812a2e96dddef3ca/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/e1c60e1487c23eed811b548b8d891d7b/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/e1c60e1487c23eed811b548b8d891d7b/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/a03d9584c2a1714c88ab509d999cd943/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/yspark/.gradle/caches/8.13/transforms/a03d9584c2a1714c88ab509d999cd943/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/yspark/.gradle/caches/8.13/transforms/314f046ee1ad08e2f2e1c739449d4049/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/yspark/.gradle/caches/8.13/transforms/314f046ee1ad08e2f2e1c739449d4049/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/09aa6e6bb50e5fa2be088d4a6ef10f59/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/09aa6e6bb50e5fa2be088d4a6ef10f59/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/6c26e131c92a2f3c1aa80f361f9fc030/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/6c26e131c92a2f3c1aa80f361f9fc030/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/f5b63fa6d3bb6c5701595f586c6cfbae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/f5b63fa6d3bb6c5701595f586c6cfbae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/db836122f2c1b1015044b4fb1eeb3444/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/db836122f2c1b1015044b4fb1eeb3444/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/yspark/.gradle/caches/8.13/transforms/0f862450057ecacbe6c188bd3a3d98d6/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/yspark/.gradle/caches/8.13/transforms/0f862450057ecacbe6c188bd3a3d98d6/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/2bac4af786a2a60f873afef904b931d3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yspark/.gradle/caches/8.13/transforms/2bac4af786a2a60f873afef904b931d3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/yspark/.gradle/caches/8.13/transforms/d5127c7f8533e63543ed89a6598605b9/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/yspark/.gradle/caches/8.13/transforms/d5127c7f8533e63543ed89a6598605b9/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yspark/.gradle/caches/8.13/transforms/9435a02c6792d02a79b1e3dc4a163e6c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yspark/.gradle/caches/8.13/transforms/9435a02c6792d02a79b1e3dc4a163e6c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yspark/develop/task/TASK_DELIGHT_MusicPlayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.media3:media3-exoplayer:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/07ef1805a2930e7e33fe5053c66cc3c6/transformed/media3-exoplayer-1.8.0/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/00c0b060894d6fcaefe8766490afd183/transformed/media3-common-1.8.0/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/00c0b060894d6fcaefe8766490afd183/transformed/media3-common-1.8.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [androidx.media3:media3-exoplayer:1.8.0] /Users/yspark/.gradle/caches/8.13/transforms/07ef1805a2930e7e33fe5053c66cc3c6/transformed/media3-exoplayer-1.8.0/AndroidManifest.xml:22:22-76
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/db836122f2c1b1015044b4fb1eeb3444/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yspark/.gradle/caches/8.13/transforms/db836122f2c1b1015044b4fb1eeb3444/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yspark/.gradle/caches/8.13/transforms/9e749b18094d58a3b1358dde53193c47/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+permission#com.parkys.musicplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+uses-permission#com.parkys.musicplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/yspark/.gradle/caches/8.13/transforms/256fc5a5b266ae2f6d1cf53ec915a992/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/yspark/.gradle/caches/8.13/transforms/0243b2b5bb2a190b90b069bc5bc23fea/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yspark/.gradle/caches/8.13/transforms/0dbf2db5e393d623c9e6edc1a70678fe/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
