@@ -7,9 +7,6 @@
 백그라운드 재생이 가능한 구조로 설계했습니다. 
 
 
-
----
-
 ## 🚀 Tech Stack
 
 ### ✔ Android
@@ -23,16 +20,20 @@
 ---
 
 ## 🧩 Architecture
-프로젝트는 다음과 같은 멀티 모듈 구조를 갖습니다:
-music-player/
-├── app
-├── Block-Core
-│ └── Core-Media
-├── Block-Feature
-│ ├── Feature-List
-│ └── Feature-Player
-└── Block-Common
-├── Common-Log
-└── Common-Bom
+🎨 Block-Feature
+ ├── Feature-List     
+ └── Feature-Player   
+
+🎧 Block-Core
+ └── Core-Media  
+
+🔧 Block-Common
+ ├── Common-Log
+ ├── Common-Extension
+ ├── Common-Utils
+ └── Common-Bom
+
+📱 App Layer
+ └── MainActivity + Global Navigation
 
 
