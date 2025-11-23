@@ -20,7 +20,7 @@
 
 ## 🧩 Architecture
 🎨 Block-Feature
- ├── Feature-List     
+ └── Feature-List     
  └── Feature-Player   
 
 🎧 Block-Core
