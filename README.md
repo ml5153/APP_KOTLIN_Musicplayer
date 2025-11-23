@@ -25,15 +25,18 @@
  └── Feature-Player   
 
 🎧 Block-Core
+
  └── Core-Media  
 
 🔧 Block-Common
- ├── Common-Log
- ├── Common-Extension
- ├── Common-Utils
+
+ └── Common-Log
+ └── Common-Extension
+ └── Common-Utils
  └── Common-Bom
 
 📱 App Layer
+
  └── MainActivity + Global Navigation
 
 
